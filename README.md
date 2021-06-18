@@ -2,4 +2,4 @@
 This application is a sea battle game
 
 
-https://vladapl.github.io/battleship/battleship_my.html
+https://vladapl.github.io/battleship/index.html
